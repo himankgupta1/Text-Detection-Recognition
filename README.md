@@ -1,1 +1,1 @@
-# Text_Detection_
+# Text_Det
