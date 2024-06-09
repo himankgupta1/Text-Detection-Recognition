@@ -1,1 +1,1 @@
-# Text_Detection_Recognit
+# Text_Detection_Recog
