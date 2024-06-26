@@ -35,7 +35,7 @@ This Text Detection App uses Python libraries such as Tesseract, OpenCV, and Pil
     pip install requests
     pip install pillow
     pip install pytesseract
-    pip install  opencv-python-headless
+    pip install opencv-python
     pip install numpy
     pip install flask
     ```
