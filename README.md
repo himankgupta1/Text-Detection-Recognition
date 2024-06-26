@@ -32,7 +32,12 @@ This Text Detection App uses Python libraries such as Tesseract, OpenCV, and Pil
 1. Install Tesseract OCR from [here](https://github.com/tesseract-ocr/tesseract). Ensure that Tesseract is added to your system path.
 2. Install the required Python packages:
     ```bash
-    pip install requests pillow pytesseract opencv-python-headless numpy flask
+    pip install requests
+    pip install pillow
+    pip install pytesseract
+    pip install  opencv-python-headless
+    pip install numpy
+    pip install flask
     ```
 
 ## Usage
